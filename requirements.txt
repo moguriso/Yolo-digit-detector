@@ -1,5 +1,5 @@
 tensorflow==1.14.0
-keras==2.3
+keras==2.2.4
 imgaug==0.2.6
 opencv-python
 Pillow
